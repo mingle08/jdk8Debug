@@ -1,4 +1,4 @@
-package com.jdk8study;
+package demo.jdk8study;
 
 import java.util.HashMap;
 import java.util.Map;
